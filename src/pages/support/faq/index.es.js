@@ -195,7 +195,7 @@ const FaqWrapper = styled.section`
     }
 
     :hover {
-      background-color: #deeeff;
+      background-color: #f8eaff;
     }
 
     &::before {

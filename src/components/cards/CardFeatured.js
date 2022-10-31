@@ -123,7 +123,7 @@ const Wrapper = styled.div`
   &.onto {
     q,
     p {
-      color: #deeeff;
+      color: #f8eaff;
     }
     ${By} {
       margin-top: auto;

@@ -44,13 +44,13 @@ export const color = {
   button: {
     primary: {
       color: "var(--white)",
-      backgroundColor: "var(--actiton-primary)",
-      hover: "#0956ac",
+      backgroundColor: "#9701DE",
+      hover: "#6A009C",
     },
     secondary: {
-      color: "var(--actiton-primary)",
+      color: "#9701DE",
       backgroundColor: "transparent",
-      hover: "#deeeff",
+      hover: "#F8EAFF",
     },
     tertiary: {
       color: "var(--actiton-secondary)",

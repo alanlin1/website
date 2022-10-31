@@ -117,7 +117,7 @@ const AccordionWrapper = styled.div`
     }
 
     :hover {
-      background-color: #deeeff;
+      background-color: #f8eaff;
     }
 
     &:before {
