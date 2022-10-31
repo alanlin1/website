@@ -94,7 +94,7 @@ export const onRouteUpdate = () => {
     platform: "website",
     pageNames,
     properties: {
-      branch: `live`,
+      branch: `cta-test-purple`,
     },
   })
   track.clicks('[data-segment="click"]', regions, "website")
